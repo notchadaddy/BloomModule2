@@ -4,3 +4,4 @@ The following issues were fixed using Logs:
 3. Finding and deleting files
 4. Modifying file permissions
 5. Finding and terminating specific processes
+The checkpoint file is provided for proof of completion.
